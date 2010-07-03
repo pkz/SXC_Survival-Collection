@@ -1,0 +1,640 @@
+[multiplayer]
+    id=SXC_Trapped
+    name= _ "SXC Trapped"
+
+map_data="border_size=1
+usage=map
+
+Gg          , Gg          , Gg          , Ggf         , Gg          , Gg          , Gg          , Ggf         , Xu          , Uu          , Uu          , Ql          , Ql          , Ql          , Uu          , Uu          , Uu          , Uu          , Uu          , Qlf         , Uu          , Uu          , Uu          , Uu          , Qlf         , Qlf         , Uu          , Cud         , Cud         , Cud         , Cud         
+Ggf         , Gg       , Ggf         , Gg          , 1 Cv        , Gg          , Ggf         , Gg          , Xu          , Uu^Ii       , Uu^Ii       , Uu          , Uu          , Uu          , Uh          , Uu          , Uu          , Uh          , Uu          , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Qlf         , Uh          , Uu          , Cud         , Cud         , Cud         , Ql          
+Gg          , Gg          , 4 Cv        , Gg          , Rr          , Ggf         , 3 Cv        , Gg          , Xu          , Re          , Gg          , Uh^Ii       , Uu^Ii       , Uu          , Uu          , Uu^Uf       , Uu          , Uu          , Uu          , Uu          , Uu          , Uu          , Uu          , Uh          , Uu          , Qlf         , Cud         , Cud         , 6 Kud       , Cud         , Cud         
+Gg          , Ggf         , Gg          , Rr          , Rr          , Rr          , Gg          , Gg          , Xu          , Hh          , Re^Uf       , Gg          , Re          , Uu^Ii       , Uh^Ii       , Uu          , Uu          , Uh          , Uu          , Uu          , Uh          , Uh          , Uu          , Uu          , Uu          , Uu          , Cud         , Cud         , Cud         , Cud         , Cud         
+Gs          , Gg          , 2 Cv        , Rr          , Rr          , Rr          , 5 Cv        , Ggf         , Xu          , Re          , Re          , Re          , Gg          , Gg          , Re          , Uu^Ii       , Uu^Ii       , Uu          , Uu^Uf       , Uu          , Uu          , Uu          , Uu          , Uu          , Uu          , Uu          , Uu          , Cud         , Cud         , Cud         , Ql          
+Gs          , Gs          , Gs          , Rr          , Gg^Wm          , Rr          , Gs          , Ggf         , Xu          , Gg          , Re          , Gg          , Hh          , Re          , Re          , Gg          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
+Gs          , Gs^Fp       , Gs^Fp       , Rr          , Rr          , Rr          , Re          , Gs          , Xu          , Hh          , Gg          , Gg          , Re          , Gg          , Gg          , Xu          , Gg          , Gs^Fp       , Gg          , Gg          , Gg          , Gg          , Chr         , Chr         , Chr         , Chr         , Chr         , Chr         , 9 Khr       , Chr         , Ql          
+Gs          , Gs^Fp       , Re          , Rr          , Rr          , Rr          , Gs^Fp       , Gs^Fp       , Xu          , Gs          , Re^Uf       , Gs          , Gs^Fp       , Re^Uf       , Gg          , Xu          , Ss          , Gg          , Gs^Fp       , Gg          , Ch          , Gg          , Chr         , Chr         , Chr         , Chr         , Chr         , Chr         , Chr         , Chr         , Xu          
+Gs          , Gs^Fp       , Re          , Rr          , Rr          , Rr          , Gs^Fp       , Gs          , Xu          , Gs^Fp       , Hh          , Re          , Gg          , Re          , Re          , Xu          , Gg          , Gg          , Gg          , Gs^Fp       , Gg          , Gg          , Chr         , Chr         , Chr         , Chr         , Chr         , Chr         , Chr         , Chr         , Xu          
+Gs          , Gs          , Gs^Fp       , Rr          , Rp          , Rr          , Re          , Gs^Fp       , Xu          , Re          , Gs^Fp       , Re          , Re          , Gs          , Gs          , Xu          , Gs^Fp       , Gg          , Mm          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
+Gs          , Gs          , Gs^Fp       , Rp          , Rp          , Rp          , Re          , Gs          , Gg          , Gg          , Gg          , Gg          , Hh          , Gs          , Gs^Fp       , Xu          , Gg          , Gg          , Gg          , Gg          , Xu          , Xu          , Xu          , Xu          , Xu          , Ggf         , Xu          , Xu          , Xu          , Xu          , Xu          
+Gs          , Gs^Fp       , Re          , Rp          , Rp          , Rp          , Gs^Fp       , Gg          , Gs          , Gs^Fp       , Re          , Gs^Fp       , Gs^Fp       , Re          , Gs          , Xu          , Ss          , Gg          , Gg          , Gs^Fp       , Ss          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
+Gs          , Gs          , Gs^Fp       , Rp          , Rp          , Rp          , Gs          , Gs^Fp       , Gg          , Gs          , Gs^Fp       , Gg          , Gg          , Gg          , Gs^Fp       , Xu          , Gs          , Gs^Fp       , Gs          , Gs          , Gs^Fp       , Gs          , Gg          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Mm^Xm       
+Gs          , Gs^Fp       , Gs^Fp       , Rp          , Rp          , Rp          , Gs^Fp       , Gg          , Gs^Fp       , Gs          , Gg          , Gs          , Hh          , Gs^Fp       , Gg          , Xu          , Gg          , Gs          , Gs          , Gs          , Gs^Fp       , Gs^Fp       , Gg          , Xu          , Ch          , Ch          , Ch          , Ch          , Ch          , Ch          , Mm          
+Gs          , Gs          , Re          , Rp          , Rd          , Rp          , Re          , Gg          , Xu          , Gg          , Hh          , Gg          , Gg          , Gg          , Gg          , Xu          , Ss          , Gg          , Mm          , Gs          , Gs          , Gs^Fp       , Ss          , Xu          , Ch          , Ch          , Ch          , 8 Kh        , Ch          , Ch          , Mm^Xm       
+Gs          , Gs          , Re          , Rd          , Rd          , Rd          , Gs^Fp       , Gs^Fp       , Xu          , Xu          , Xu          , Gg          , Hh          , Gg          , Xu          , Xu          , Xu          , Gg          , Gg          , Gg          , Gs          , Gs^Fp       , Gg          , Xu          , Ch          , Ch          , Ch          , Ch          , Ch          , Ch          , Mm^Xm       
+Gs          , Gs          , Gs^Fp       , Rd          , Rd          , Rd          , Gs          , Gs          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Ha          , Aa          , Ha          , Xu          , Gg          , Ggf         , Ggf         , Gs          , Gg          , Xu          , Gs          , Ch          , Gs          , Ch          , Gs          , Ch          , Mm          
+Gs          , Gs          , Gs^Fp       , Rd          , Rd          , Rd          , Gs^Fp       , Gg          , Xu          , Xu          , Hd          , Ds          , Md          , Md^Xm       , Aa          , Aa          , Aa          , Xu          , Gs^Ft       , Gs^Ft       , Gs          , Gs^Fp       , Ggf         , Xu          , Mm          , Gs          , Gs          , Gg^Fet      , Hh          , Gs          , Mm          
+Gg          , Gg          , Gs^Fp       , Re          , Re          , Gs^Fp       , Gg          , Gs^Fp       , Gg          , Xu          , Ds          , Ds          , Ds          , Md^Xm       , Aa          , Ha          , Aa          , Xu          , Gg          , Gs          , Gs          , Gg          , Ss          , Xu          , Hh          , Hh          , Mm          , Gs          , Hh          , Gs          , Mm^Xm       
+Gg          , Gs          , Gs          , Re          , Gg          , Re          , Gg          , Gs          , Gg          , Xu          , Ds          , Hd          , Ds          , Md^Xm       , Aa          , Aa          , Aa          , Xu          , Ss          , Ggf         , Gg          , Gs          , Gs          , Xu          , Mm^Xm       , Gg^Fet      , Hh          , Hh          , Gs          , Gs          , Mm^Xm       
+Gg          , Gg          , Gg          , Gs^Fp       , Re          , Re          , Gs^Fp       , Gs          , Hh          , Xu          , Ds          , Ds          , Ds          , Md^Xm       , Aa          , Ha          , Aa          , Xu          , Ggf         , Gs^Ft       , Mm          , Gg          , Gs^Ft       , Xu          , Hh          , Mm          , Gs          , Hh          , Mm          , Gs          , Mm          
+Gg          , Hh          , Hh          , Re          , Re          , Gs^Fp       , Gg          , Hh          , Gg          , Xu          , Ds          , Hd          , Ds          , Md^Xm       , Aa          , Aa          , Aa          , Xu          , Gg          , Gg          , Ggf         , Gg          , Gs^Ft       , Xu          , Gs          , Gs          , Mm          , Mm^Xm       , Mm          , Hh          , Mm^Xm       
+Gg          , Gs^Fp       , Gg          , Gg          , Re          , Re          , Gg          , Gg          , Hh          , Xu          , Ds          , Ds          , Ds          , Md^Xm       , Aa          , Ha          , Aa          , Xu          , Gs^Ft       , Ggf         , Gs^Ft       , Gs          , Ss          , Xu          , Hh          , Hh          , Gs^Fp       , Hh          , Gs          , Gg^Fet      , Mm          
+Gs^Fp       , Hh          , Gg          , Gg          , Gs^Fp       , Gg          , Hh          , Gg          , Gg          , Xu          , Ds          , Hd          , Ds          , Md^Xm       , Aa          , Aa          , Aa          , Xu          , Gg          , Gg          , Gs          , Gg          , Gs          , Xu          , Mm^Xm       , Mm          , Mm          , Hh          , Hh          , Gs          , Mm          
+Hh          , Gs^Fp       , Gg          , Gs^Fp       , Re          , Gg          , Gg          , Gg          , Gg          , Xu          , Ds          , Ds          , Ss          , Ss          , Ss          , Ha          , Aa          , Xu          , Ss          , Gg          , Gg          , Mm          , Gg          , Xu          , Hh          , Mm          , Hh          , Gs          , Gs          , Mm          , Mm          
+Hh          , Gg          , Hh          , Gg          , Re          , Gg          , Gs^Fp       , Gg          , Hh          , Gg          , Ss          , Ss          , Ss          , Ss          , Ss          , Ss          , Ss          , Xu          , Gg          , Gs^Ft       , Gs          , Gg          , Gs^Ft       , Xu          , Hh          , Hh          , Hh          , Hh          , Hh          , Gs          , Mm          
+Gg          , Gg          , Gg          , Gg          , Hh          , Gg          , Gg          , Gg          , Gg          , Gg          , Ss^Bw/      , Ss          , Ss          , Ss^Bw/      , Ss          , Ss          , Ss          , Xu          , Gs          , Mm          , Gs^Ft       , Gs^Ft       , Gg          , Xu          , Gs          , Hh          , Mm          , Mm          , Gs          , Gg^Fet      , Mm^Xm       
+Gg          , Gg          , Gg          , Hh          , Gg          , Gg          , Gs^Fp       , Gg          , Gg          , Gg          , Ss          , Ss          , Ss^Bw|      , Ss          , Ss          , Ss          , Chs         , Xu          , Gg          , Gs          , Gs          , Gs          , Gs^Ft       , Xu          , Hh          , Gg^Fet      , Mm          , Mm^Xm       , Hh          , Hh          , Mm          
+Gg          , Gg          , Gg          , Gs^Fp       , Gg^Wm       , Gg          , Gg          , Gg          , Gg          , Gg          , Xu          , Ss          , Xu          , Ss          , Xu          , Ss          , Xu          , Xu          , Gs          , Gs^Ft       , Hh          , Gs          , Gs^Ft       , Xu          , Gs          , Hh          , Gs          , Hh          , Mm          , Gs^Fp       , Mm^Xm       
+Gs^Ft       , Gg          , Hh          , Gg          , Gg          , Gg          , Gg          , Hh          , Gs^Ft       , Xu          , Gs          , Xu          , Gg          , Xu          , Gg          , Xu          , Gg          , Gg          , Gs          , Gg          , Mm          , Gg          , Gg          , Mm          , Gg^Fet      , Mm^Xm       , Mm          , Hh          , Hh          , Hh          , Mm^Xm       
+Gs^Ft       , Gs^Ft       , Gs^Ft       , Gs^Ft       , Gs^Ft       , Gs^Ft       , Gs^Ft       , Gs^Ft       , Gs^Ft       , Xu          , Gg          , Gg          , Gg          , Gs^Ft       , Gg          , Gs^Ft       , Gs          , Gs^Ft       , Gs          , Hh          , Gs          , Hh          , Hh          , Hh          , Hh          , Mm          , Hh          , Hh          , Hh          , Mm^Xm       , Mm          
+Gs^Ft       , Gs^Ft       , Gs^Ft       , Hh          , Gg          , Gs^Ft       , Gs^Ft       , Hh          , Gs^Ft       , Xu          , Gg          , Mm          , Gg          , Gg          , Hh          , Mm          , Gg          , Gs^Ft       , Hh          , Gs          , Mm          , Gg          , Hh          , Gs          , Mm          , Hh          , Mm          , Gs^Fp       , Mm          , Gs          , Mm^Xm       
+Gs^Fp       , Gs^Ft       , Gg^Fet      , Gs^Fp       , Gs^Fp       , Gg^Fet      , Gs^Ft       , Hh          , Gg^Fet      , Xu          , Gg          , Gg          , Gs^Ft       , Gs^Ft       , Gg          , Hh          , Hh          , Gs          , Gs          , Gg          , Gs          , Gs          , Mm          , Gs          , Mm          , Gs          , Gs          , Mm          , Gg^Fet      , Hh          , Mm          
+Gs^Fp       , Gs^Ft       , Hh          , Gs^Ft       , Gs^Fp       , Gs^Ft       , Hh          , Gs^Ft       , Gs^Fp       , Xu          , Mm          , Gg          , Hh          , Gg          , Hh          , Gg          , Xu          , Gg          , Xu          , Gs          , Xu          , Gg          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Mm          
+Gs^Fp       , Gs^Ft       , Gs^Ft       , Gs^Ft       , Gg^Fet      , Gs^Ft       , Gs^Ft       , Gg          , Gs^Fp       , Xu          , Gs^Fp       , Hh          , Gg          , Gg          , Gg          , Mm          , Xu          , Xu          , Gg          , Xu          , Gg          , Xu          , Gg          , Gs^Ft       , Gg          , Gg          , Gg          , Gg          , Gs^Ft       , Hh          , Hh          
+Gg^Fet      , Gg          , Gs^Ft       , Gs^Ft       , Gg          , Gs^Fp       , Gg^Fet      , Gs^Fp       , Gs^Ft       , Xu          , Gg          , Gs^Fp       , Gs^Fp       , Gg          , Hh          , Gg          , Xu          , Gg          , Gg          , Mm          , Gg          , Mm          , Gg          , Ggf         , Gs          , Cud         , Gs          , Gs          , Gs          , Gs^Ft       , Hh          
+Gs^Fp       , Gs^Ft       , Gs^Ft       , Hh          , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Ft       , Gs^Ft       , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Ft       , Xu          , Chw         , Gg          , Gs          , Hh          , Ggf         , Ggf         , Gg          , Gs          , Gg          , Hh          , Gg          , Hh          , Gg          , Hh          
+Gs^Fp       , Hh          , Gg^Fet      , Gs^Fp       , Gs^Ft       , Gs^Ft       , Gs^Ft       , Hh          , Gs^Ft       , Gg^Fet      , Gg          , Gg          , Gs^Ft       , Gs^Ft       , Gg          , Gg          , Xu          , Chw         , Ggf         , Gs          , Gg          , Gg          , Gg          , Hh          , Gg          , Xu          , Ggf         , Gs^Ft       , Gg          , Gs          , Hh          
+Gs^Fp       , Gs^Ft       , Gs^Fp       , Gg          , Gs^Fp       , Hh          , Gs^Fp       , Gs^Fp       , Gs^Ft       , Gg          , Gs^Fp       , Gg          , Gs^Fp       , Gs^Ft       , Gs^Ft       , Gg          , Xu          , Gg          , Gg          , Mm          , Gg          , Mm          , Gg          , Gs          , Gs^Ft       , Xu          , Gg          , Gs          , Gg^Wm       , Gs^Ft       , Hh          
+Gs^Fp       , Gs^Fp       , Gs^Ft       , Gs^Ft       , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gg^Fet      , Hh          , Xu          , Gs^Fp       , Gg          , Gg          , Gg          , Gs          , Gg          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Gs^Ft       , Gs          , Gs          , Gg          , Gs          
+Gg^Fet      , Gs^Fp       , Gs^Ft       , Cv          , Gs^Ft       , Cv          , Gs^Ft       , Gg          , Gs^Ft       , Xu          , Gg          , Gs^Ft       , Gg          , Hh          , Gg          , Gs          , Hh          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Gg          , Hh          , Gs          , Hh          , Gs          
+Gs^Fp       , Gg          , Cv          , Cv          , Cv          , Cv          , Cv          , Gs^Ft       , Hh          , Xu          , Gg          , Gg          , Gs^Ft       , Gs          , Gg^Wm       , Gg          , Gg          , Gg          , Gs          , Gs          , Gg          , Gg          , Gs          , Gg          , Gg          , Gg          , Gs          , Gs          , Gs^Ft       , Gg          , Gs          
+Gs^Ft       , Gs^Fp       , Cv          , Cv          , 7 Kv        , Cv          , Cv          , Gs^Fp       , Gg          , Xu          , Gg          , Hh          , Hh          , Gs          , Gg          , Hh          , Gg          , Ce          , Cv          , Ch          , Cud         , Ch          , Ch          , Cv          , Chr         , Cv          , Gg          , Gg          , Hh          , Gs          , Gs          
+Gs^Ft       , Gs^Fp       , Gg^Fet      , Cv          , Cv          , Cv          , Gs^Fp       , Gs^Fp       , Gg^Fet      , Xu          , Gg          , Gs          , Gg          , Gs          , Gg          , Hh          , Gs          , Gg          , Gg          , Gg          , Gg          , Gs          , Gg          , Gg          , Gs          , Gg          , Gs^Ft       , Gs          , Gg          , Gg          , Gs          
+Gs^Ft       , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Ft       , Gs^Ft       , Gs^Fp       , Gs^Fp       , Gs^Fp       , Xu          , Re^Uf       , Gs^Ft       , Gs^Ft       , Re^Uf       , Re          , Re          , Re          , Re^Uf       , Re          , Gs^Ft       , Gs^Ft       , Re          , Re          , Re          , Re^Uf       , Gs^Ft       , Gs^Ft       , Re          , Re          , Re^Uf       , Re          "
+
+
+    description= _ "Survive as long as possible while trying to kill the enemy leaders. You receive money for every kill which you may spend in the shop. Enjoy!"
+    players=9
+
+
+  {~add-ons/SXCollection/macros/SXCmacros.cfg}
+
+[story]
+    [part]
+        show_title=yes
+        story= _ "The enemy forces have set up a devious encampment utilizing the land to their advantage. You must Fight through and defeat the enemy generals to stop the onslaught!"
+    [/part]
+[/story]
+
+
+  {DAWN}
+  {MORNING}
+  {AFTERNOON}
+  {DUSK}
+  {FIRST_WATCH}
+  {SECOND_WATCH}
+
+{SX_MUSIC_PLAYLIST}
+
+    experience_modifier=130%
+
+{SX_PLAYER_SIDE 1 800}
+{SX_PLAYER_SIDE 2 800}
+{SX_PLAYER_SIDE 3 800}
+{SX_PLAYER_SIDE 4 800}
+{SX_PLAYER_SIDE 5 800}
+
+    [side]
+        side=6
+        team_name=enemies
+        canrecruit=1
+        controller=ai
+        allow_player=no
+        income=18
+        village_gold=0
+        gold=200
+        recruit="Dark Adept,Ghost,Ghoul,Skeleton,Skeleton Archer,Vampire Bat,Orcish Grunt,Orcish Archer,Troll Whelp"
+        type="Deathblade"
+        allow_player=no
+        role=boss
+        [modifications]
+        [object]
+        silent=yes
+        {SX_ENEMY_MODIFICATION -6 311 3 4 4 2 10}
+##        {SX_ENEMY_WEAPON_FLAMING_DART 8 8}
+        [/object]
+        [/modifications]
+        [ai]
+        recruitment_ignore_bad_movement=yes
+        recruitment_ignore_bad_combat=yes
+        passive_leader=no
+        leader_value=3
+        agression=1.0
+        caution=0.0
+        grouping=no
+        protect_leader=0.0
+        protect_leader_radius=0.0
+        village_value=0.0
+simple_targeting=yes
+recruitment_pattern=fighter,archer,mixed fighter,fighter,scout,healer
+        [/ai]
+    [/side]
+    [side]
+        side=7
+        team_name=enemies
+        canrecruit=1
+        controller=ai
+        allow_player=no
+        income=28
+        village_gold=0
+        gold=300
+        recruit="Elvish Fighter,Elvish Archer,Elvish Scout,Elvish Shaman,Wose,Mage,Orcish Archer,Bowman,Spearman"
+        type="Elvish Sharpshooter"
+        allow_player=no
+        role=boss
+        [modifications]
+        [object]
+        silent=yes
+        {SX_ENEMY_MODIFICATION -6 953 8 7 7 12 20}
+        [/object]
+        [/modifications]
+        [ai]
+        recruitment_ignore_bad_movement=yes
+        recruitment_ignore_bad_combat=yes
+        passive_leader=no
+        leader_value=3
+        agression=1.0
+        caution=0.0
+        grouping=no
+        protect_leader=10.0
+        protect_leader_radius=50.0
+        village_value=0.0
+        [/ai]
+    [/side]
+    [side]
+        side=8
+        team_name=enemies
+        canrecruit=1
+        controller=ai
+        allow_player=no
+        income=38
+        village_gold=0
+        gold=400
+        recruit="Dwarvish Fighter,Dwarvish Guardsman,Dwarvish Thunderer,Dwarvish Ulfserker,Footpad,Gryphon Rider,Poacher,Thief,Fencer"
+        type="Dwarvish Lord"
+        allow_player=no
+        role=boss
+        [modifications]
+        [object]
+        silent=yes
+        {SX_ENEMY_MODIFICATION -4 1421 12 11 12 21 30}
+##        {SX_ENEMY_WEAPON_SLING 21 19}
+        [/object]
+        [/modifications]
+        [ai]
+        recruitment_ignore_bad_movement=yes
+        recruitment_ignore_bad_combat=yes
+        passive_leader=no
+        leader_value=3
+        agression=1.0
+        caution=0.0
+        grouping=no
+        protect_leader=10.0
+        protect_leader_radius=50.0
+        village_value=0.0
+        [/ai]
+    [/side]
+    [side]
+        side=9
+        team_name=enemies
+        canrecruit=1
+        controller=ai
+        allow_player=no
+        income=48
+        village_gold=0
+        gold=500
+        recruit="Sergeant,Spearman,Bowman,Fencer,Cavalryman,Horseman,Mage,Heavy Infantryman,Elvish Archer,Elvish Scout"
+        type="Silver Mage"
+        allow_player=no
+        role=boss
+        [modifications]
+        [object]
+        silent=yes
+        {SX_ENEMY_MODIFICATION -6 2452 18 23 20 31 40}
+        [/object]
+        [/modifications]
+        [ai]
+        recruitment_ignore_bad_movement=yes
+        recruitment_ignore_bad_combat=yes
+        passive_leader=no
+        leader_value=3
+        agression=1.0
+        caution=0.0
+        grouping=no
+        protect_leader=10.0
+        protect_leader_radius=50.0
+        village_value=0.0
+        [/ai]
+    [/side]
+
+[event]
+    name="start"
+        [objectives]
+            [objective]
+                description= _ "Survive and kill the enemy leaders."
+                condition=win
+            [/objective]
+            [objective]
+                description= _ "Death of your hero"
+                condition=lose
+            [/objective]
+        [/objectives]
+[/event]
+
+{SX_KILL}
+{SX_ENEMY_DEATH_EVENT}
+
+[event]
+name=turn 120
+{SX_MODIFY_INCOME 9 420}
+{SX_MODIFY_INCOME 8 305}
+{SX_MODIFY_INCOME 7 220}
+{SX_MODIFY_INCOME 6 200}
+[/event]
+
+[event]
+name=turn 110
+{SX_MODIFY_INCOME 9 400}
+{SX_MODIFY_INCOME 8 290}
+{SX_MODIFY_INCOME 7 210}
+{SX_MODIFY_INCOME 6 185}
+[/event]
+
+[event]
+name=turn 100
+{SX_MODIFY_INCOME 9 380}
+{SX_MODIFY_INCOME 8 270}
+{SX_MODIFY_INCOME 7 190}
+{SX_MODIFY_INCOME 6 175}
+[/event]
+
+[event]
+name=turn 90
+{SX_MODIFY_INCOME 9 345}
+{SX_MODIFY_INCOME 8 245}
+{SX_MODIFY_INCOME 7 180}
+{SX_MODIFY_INCOME 6 165}
+[/event]
+
+[event]
+name=turn 80
+{SX_MODIFY_INCOME 9 315}
+{SX_MODIFY_INCOME 8 220}
+{SX_MODIFY_INCOME 7 160}
+{SX_MODIFY_INCOME 6 150}
+[/event]
+
+[event]
+name=turn 70
+{SX_MODIFY_INCOME 9 275}
+{SX_MODIFY_INCOME 8 195}
+{SX_MODIFY_INCOME 7 145}
+{SX_MODIFY_INCOME 6 120}
+[/event]
+
+[event]
+name=turn 60
+{SX_MODIFY_INCOME 9 235}
+{SX_MODIFY_INCOME 8 175}
+{SX_MODIFY_INCOME 7 130}
+{SX_MODIFY_INCOME 6 110}
+[/event]
+
+[event]
+name=turn 50
+##{SX_TRAPPEDBUFF4}
+{SX_MODIFY_INCOME 9 175}
+{SX_MODIFY_INCOME 8 155}
+{SX_MODIFY_INCOME 7 118}
+{SX_MODIFY_INCOME 6 95}
+[/event]
+
+[event]
+
+name=turn 40
+{SX_MODIFY_INCOME 9 128}
+{SX_MODIFY_INCOME 8 98}
+{SX_MODIFY_INCOME 7 78}
+{SX_MODIFY_INCOME 6 60}
+[/event]
+
+[event]
+name=turn 30
+{SX_MODIFY_INCOME 9 108}
+{SX_MODIFY_INCOME 8 83}
+{SX_MODIFY_INCOME 7 58}
+{SX_MODIFY_INCOME 6 45}
+[/event]
+
+[event]
+name=turn 20
+##{SX_TRAPPEDBUFF3}
+##{SX_TRAPPEDBUFF2}
+{SX_MODIFY_INCOME 9 88}
+{SX_MODIFY_INCOME 8 68}
+{SX_MODIFY_INCOME 7 48}
+{SX_MODIFY_INCOME 6 40}
+[/event]
+
+[event]
+name=turn 10
+##{SX_TRAPPEDBUFF1}
+{SX_MODIFY_INCOME 9 68}
+{SX_MODIFY_INCOME 8 53}
+{SX_MODIFY_INCOME 7 38}
+{SX_MODIFY_INCOME 6 35}
+[/event]
+
+[event]
+name=prestart
+{SX_INIT_VARIABLES}
+{SX_ARMORY_LIMIT 1}
+{SX_ARMORY_LIMIT 2}
+{SX_ARMORY_LIMIT 3}
+{SX_ARMORY_LIMIT 4}
+{SX_ARMORY_LIMIT 5}
+{SX_NO_GOLD_FOR_NOBODY}
+[/event]
+
+[event]
+    name=prestart
+    {SX_BEFORE_SHOPS}
+    {SX_SHOP 4 3}
+    {SX_SHOP 16 27}
+    {SX_SHOP 10 29}
+#    {SX_SHOP_EVENT 4 3}
+#    {SX_SHOP_EVENT 16 27}
+#    {SX_SHOP_EVENT 10 29}
+######{SX_SHOP_EVENT}
+[/event]
+
+{SX_CHEST_GOLD 28 6 100}
+{SX_CHEST_GOLD 27 14 75}
+{SX_CHEST_GOLD 4 42 75}
+{SX_CHEST_GOLD 28 2 50}
+{SX_CHEST_GOLD 16 16 50}
+{SX_CHEST_GOLD 10 17 50}
+{SX_CHEST_GOLD 15 27 25}
+{SX_CHEST_GOLD 25 1 50}
+{SX_CHEST_GOLD 20 7 50}
+{SX_CHEST_GOLD 25 35 75}
+{SX_CHEST_GOLD 11 31 50}
+{SX_DEFRING 25 42}
+#{SX_CHEST_SCEPTRE 25 10}
+#{SX_CHEST_NECKLACE 17 36}
+{0SX_RESRING 17 37}
+{SX_RED_POTION 17 1}
+{SX_RED_POTION 11 21}
+{SX_RED_POTION 15 20}
+{SX_RED_POTION 8 43}
+{SX_RED_POTION 23 29}
+{SX_RED_POTION 16 14}
+{SX_CHEST_CLOAK 14 16}
+{SX_YELLOW_POTION 12 17}
+{SX_YELLOW_POTION 18 42}
+{SX_YELLOW_POTION 21 42}
+
+[event]
+name=start
+{SX_ENEMY_GUARD 15 27 "Saurian Oracle" 6 -10 221 5 1 4 2 10}
+{SX_ENEMY_GUARD 10 17 "Saurian Ambusher" 6 -10 314 6 6 8 5 20}
+{SX_ENEMY_GUARD 12 17 "Drake Thrasher" 6 -10 334 4 10 2 4 20}
+{SX_ENEMY_GUARD 14 16 "Yeti" 7 -10 400 8 5 2 4 10}
+{SX_ENEMY_UNDEAD_GUARD 25 1 "Revenant" 6 -10 103 1 2 5 7 10}
+{SX_ENEMY_GUARD 16 16 "Dwarvish Dragonguard" 8 -10 341 6 9 7 0 20}
+{SX_ENEMY_GUARD 11 31 "Dwarvish Stalwart" 8 -10 446 7 13 9 12 20}
+{SX_ENEMY_GUARD 9 37 "Ancient Wose" 7 -10 420 8 5 0 0 40}
+{SX_ENEMY_GUARD 6 38 "Elder Wose" 7 -10 236 3 11 4 2 10}
+{SX_ENEMY_GUARD 2 36 "Elder Wose" 7 -10 236 3 11 4 3 10}
+{SX_ENEMY_GUARD 4 34 "Elder Wose" 7 -10 236 3 11 2 4 10}
+{SX_ENEMY_GUARD 2 31 "Elder Wose" 7 -10 136 2 8 2 4 10}
+{SX_ENEMY_GUARD 6 31 "Elder Wose" 7 -10 136 2 7 2 4 10}
+{SX_ENEMY_GUARD 20 13 "Ancient Wose" 7 -10 520 8 15 20 20 20}
+{SX_ENEMY_GUARD 17 12 "Ancient Wose" 7 -10 420 8 15 2 4 20}
+{SX_ENEMY_GUARD 17 42 "Orcish Warlord" 6 -10 522 12 15 13 12 20}
+{SX_ENEMY_GUARD 18 42 "Elvish Enchantress" 7 -10 650 12 14 12 15 20}
+{SX_ENEMY_GUARD_A 19 42 "Drake Warden" 8 -10 718 12 15 7 24 20}
+{SX_ENEMY_UNDEAD_GUARD 20 42 "Ancient Lich" 9 -10 820 16 12 11 17 20}
+{SX_ENEMY_GUARD_B 21 42 "Halberdier" 6 -10 928 13 22 8 32 20}
+{SX_ENEMY_GUARD 22 42 "General" 7 -10 942 14 12 13 13 20}
+{SX_ENEMY_GUARD 23 42 "Silver Mage" 8 -10 1452 23 23 16 11 30}
+{SX_ENEMY_GUARD 24 42 "Dwarvish Sentinel" 9 -10 1432 17 21 18 19 30}
+{SX_ENEMY_GUARD_K 25 42 "Ancient Wose" 6 -10 1820 18 25 9 38 40}
+{SX_ENEMY_GUARD 17 36 "Peasant" 9 -10 2200 22 46 22 44 40}
+{SX_ENEMY_GUARD_J 17 37 "Ruffian" 9 -10 2200 22 46 12 44 40}
+{SX_ENEMY_GUARD_B 25 35 "Blood Bat" 9 -10 2000 27 43 8 30 40}
+{SX_ENEMY_GUARD 20 7 "Grand Marshal" 9 -10 632 16 10 12 12 10}
+{SX_ENEMY_GUARD_H 25 10 "Troll Rocklobber" 9 -10 951 10 20 12 12 30}
+[/event]
+
+[event]
+name=turn 20
+{SX_ENEMY_GUARD17 1 "Wraith" 6 1 380 4 8 4 9 10}
+[/event]
+
+[event]
+name=turn 35
+{SX_ENEMY_GUARD 13 38 "Elder Wose" 7 4 650 8 24 -3 4 30}
+[/event]
+
+[event]
+name=turn 50
+{SX_ENEMY_GUARD26 23 "Dwarvish Thunderer" 8 3 980 12 15 14 43 20}
+[/event]
+
+[event]
+name=turn 75
+{SX_ENEMY_GUARD16 6 "Paladin" 9 4 1510 12 24 14 25 30}
+[/event]
+
+[event]
+name=turn 90
+{SX_ENEMY_GUARD28 42 "Yeti" 6 3 2000 20 30 0 0 40}
+[/event]
+
+[event]
+name=turn 195
+[message]
+speaker=narrator
+image= _ "images/units/undead-necromancers/necromancer-magic-2.png"
+message= _ "Arise my fallen brethren!"
+[/message]
+	[if]
+	[not]
+	[have_unit]
+	side=6
+	canrecruit=1
+	[/have_unit] 
+	[/not]
+	[then]
+	{SX_ENEMY_LEADER 28 2 "Deathblade" 6 -6 944 9 12 12 6 10}
+	[/then]
+	[/if]
+	[if]
+	[not]
+	[have_unit]
+	side=7
+	canrecruit=1
+	[/have_unit] 
+	[/not]
+	[then]
+	{SX_ENEMY_LEADER 4 42 "Elvish Sharpshooter" 7 -6 953 8 7 7 12 20}
+	[/then]
+	[/if]
+	[if]
+	[not]
+	[have_unit]
+	side=8
+	canrecruit=1
+	[/have_unit] 
+	[/not]
+	[then]
+	{SX_ENEMY_LEADER 27 14 "Dwarvish Lord" 8 -4 1421 12 11 12 21 30}
+	[/then]
+	[/if]
+	[if]
+	[not]
+	[have_unit]
+	side=9
+	canrecruit=1
+	[/have_unit] 
+	[/not]
+	[then]
+	{SX_ENEMY_LEADER 28 6 "Silver Mage" 9 -6 2452 18 23 20 31 40}
+	[/then]
+	[/if]
+[/event]
+
+[event]
+name=turn 1
+first_time_only=yes
+{VARIABLE brutal 0}
+[/event]
+
+[event]
+name=new turn
+first_time_only=no
+{VARIABLE_OP brutal add 1}
+[/event]
+
+{SX_CHOOSE_DIFFICULTY}
+{SX_DEATH_MESSAGES}
+{SX_ENEMY_UPGRADE}
+{SX_MEGA_CHALLENGE}
+
+{SX_INCOME_BONUS 5 5 10 15}
+
+ #---------------- # Treasure switch #----------------
+[event] 
+name=moveto 
+[filter] 
+x,y=4,42 
+side=1,2,3,4,5 
+[/filter]
+[message] 
+speaker=unit
+message= _ "Hmmm? It almost felt like I stepped on a button..."
+[/message]
+{SX_SET_TERRAIN 24 10 Gg}
+[/event]
+
+[event] 
+name=moveto 
+[filter] 
+x,y=27,14 
+side=1,2,3,4,5 
+[/filter]
+[message]
+speaker=unit
+message= _ "Hmmm? It almost felt like I stepped on a button..."
+[/message]
+{SX_SET_TERRAIN 23 11 Gg}
+[/event]
+
+[event] 
+name=moveto 
+[filter] 
+x,y=28,6 
+side=1,2,3,4,5 
+[/filter]
+[message]
+speaker=unit
+message= _ "Ah-HAH! A button!"
+[/message]
+{SX_SET_TERRAIN 22 11 Gg}
+[/event]
+
+[event] 
+name=moveto 
+[filter] 
+x,y=4,5 
+side=1,2,3,4,5 
+[/filter]
+[message]
+speaker=unit
+message= _ "My friends, we must be cautious. The enemy has set up a great defense that we will surely have to battle our way through!"
+[/message]
+[/event]
+
+[event] 
+name=moveto 
+[filter] 
+x,y=4,28 
+side=1,2,3,4,5 
+[/filter]
+[message]
+speaker=unit
+message= _ "These woods give me the creeps...move carefully!"
+[/message]
+[/event]
+
+[event] 
+name=moveto 
+[filter] 
+x,y=14,41 
+side=1,2,3,4,5 
+[/filter]
+[message]
+speaker=unit
+message= _ "These are surely their toughest warriors! It may be best to search for the generals elsewhere..."
+[/message]
+[/event]
+
+[event] 
+name=moveto 
+[filter] 
+x,y=28,38 
+side=1,2,3,4,5 
+[/filter]
+[message]
+speaker=unit
+message= _ "These enemies are beyond us! It is a fool's errand to press on!"
+[/message]
+[/event]
+
+[event] 
+name=moveto 
+[filter] 
+x,y=11,19 
+side=1,2,3,4,5 
+[/filter]
+[message]
+speaker=unit
+message= _ "Blasted desert!"
+[/message]
+[/event]
+
+[event] 
+name=moveto 
+[filter] 
+x,y=15,22 
+side=1,2,3,4,5 
+[/filter]
+[message]
+speaker=unit
+message= _ "I wish I had worn my thermals today!"
+[/message]
+[/event]
+
+[event] 
+name=moveto 
+[filter] 
+x,y=21,3 
+side=1,2,3,4,5 
+[/filter]
+[message]
+speaker=unit
+message= _ "Rewards come to those who wait."
+[/message]
+[/event]
+
+[/multiplayer]
