@@ -1,11 +1,10 @@
 These people helped with improving this pack:
 
+  Clonkinator
+  Mabuse
+  Golbeeze
   Lester
-  Data
   mond
-  ghandor
   pkz
-  ken-san
-  MCP
 
-If I forgot someone, please send me personal message in Wesnoth forum
+If I forgot someone, please send me personal message
